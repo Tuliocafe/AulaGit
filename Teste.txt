@@ -1,0 +1,2 @@
+print('sera que vai funcionar ? ')
+exit input('Digite ENTER para sair')
